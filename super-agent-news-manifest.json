@@ -1,0 +1,62 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/)",
+    "[theverge.com](https://www.theverge.com/)",
+    "[pcmag.com](https://www.pcmag.com/)",
+    "[fortune.com](https://fortune.com/)",
+    "[cnbc.com](https://www.cnbc.com/)",
+    "[getsupers.com](https://getsupers.com/)"
+  ],
+  "design_plan": "rng_seed=42; AIDA checked; hero width math capped ~1120px for 2\u20133 lines; bento and compare grids use grid-auto-flow:dense; hero/actions centered with justify-content:center; contrast AA+; all cluster links verified; exact phrase 'computer-use cache' included twice in visible copy.",
+  "generated_at": "2026-07-04T23:30:48.718241+00:00",
+  "headline": "Meta Display AI assistant for smart glasses that actually gets things done",
+  "site_brief": {
+    "audience": "people evaluating AI assistants for Meta smart glasses and display-style wearable workflows",
+    "canonical_url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Meta Display AI assistant', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful.",
+    "kind": "use_case",
+    "queries": [
+      "Meta smart glasses AI assistant",
+      "Meta Display AI assistant",
+      "AI assistant for smart glasses",
+      "wearable AI agent computer use"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "meta-display-ai-assistant",
+    "title": "Meta Display AI assistant",
+    "use_case_intent": "show how Super can become the action layer for hands-free Meta Display workflows beyond simple voice answers"
+  },
+  "summary": "An indexable use\u2011case page showing how Super works as a Meta Display AI assistant \u2014 going beyond voice answers to real computer\u2011use workflows, with a reusable computer-use cache that makes repeated tasks faster and cheaper."
+}
